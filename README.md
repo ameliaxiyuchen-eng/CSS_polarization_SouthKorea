@@ -12,7 +12,7 @@ The repository includes:
 
 * Data collection, classification, analyzation code
 * Processed datasets                                
-* Visualization scripts
+* Visualization plots
 * Supplementary materials and codebooks
 
 
