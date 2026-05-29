@@ -11,7 +11,7 @@ This study investigates how YouTube recommendation systems respond to different 
 The repository includes:
 
 * Data collection, classification, analyzation code
-* Processed datasets
+* Processed datasets                                  # in the data branch
 * Visualization scripts
 * Supplementary materials and codebooks
 
