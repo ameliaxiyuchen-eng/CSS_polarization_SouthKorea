@@ -2,8 +2,7 @@
 
 This repository contains the data and code used for the study:
 
-> “[Is YouTube Feminist or Anti-Feminist? A Comparative Sock-Puppet Experiment on South Korean YouTube
-]”
+> Is YouTube Feminist or Anti-Feminist? A Comparative Sock-Puppet Experiment on South Korean YouTube
 
 ## Project Description
 
