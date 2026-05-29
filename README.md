@@ -15,7 +15,17 @@ The repository includes:
 * Visualization scripts
 * Supplementary materials and codebooks
 
-
+Repository Structure
+├── data/
+│
+├── code/
+│
+├── output/
+│
+├── supplementary material/               # Training logs, prompts, codebooks
+│
+├── README.md
+└── requirements.txt
 
 ## Software
 
